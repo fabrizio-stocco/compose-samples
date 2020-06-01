@@ -13,7 +13,7 @@
   the License.
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.jetnews">
+    package="xyz.fabriziostocco.jetnews">
 
     <application
         android:name=".JetnewsApplication"
